@@ -84,7 +84,7 @@ These equations are simplified to demonstrate modeling concepts.
 ## 📦 Installation
 
 ``` bash
-git clone https://github.com/yourusername/SeismoGrid.git
+git clone https://github.com/amandeepintl/SeismoGrid.git
 cd SeismoGrid
 pip install -r requirements.txt
 ```
